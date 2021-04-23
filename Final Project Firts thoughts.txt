@@ -1,0 +1,63 @@
+ Proof of concept:
+             1.        A database driven web application using MVC
+
+The Idea is to buil the prood of concept for a dietary program. 
+Program your eating habits. Base in the existing ground diets types.
+
+You will be able to :
+
+A) Create a new Program with these parameters:
+
+-Name your habit (program)
+-Set a time or goal frame of time to archive 
+this training habit (expect nor necessary obligatory)
+
+- Set a list of ingredientes to check on your list 
+- would be good if an open api with 
+the content of producsts or veggies to add.
+(add manually in case not existance)
+
+- Description of you own diet.
+- Write clear your expectancy to archive. for exemple. loss weight or clean your gut.
+
+B) Already set up programs that exist in a list.
+
+C) Programs should send a sort of remainning message.
+
+D) You should have a page for user.
+   We should provide logging credentials.
+
+E) it should have a instant feeback form for the users.
+
+This prove of concept should use database driven.
+use and api with vegetales properties or other products
+
+Proof of Concept? well!
+Step 1: Prove the Need -new feuture 
+or way of thinking about diets and programs have come.
+
+Step 2: Map Pain Points to Solutions and Get Feedback
+List of solutions, go back to the users and 
+stakeholders you initially interviewed and learn 
+their reactions and responses to the recommended solutions.
+Describe how you envision the product working, 
+and ask for their feedback.
+This input will provide you with 
+valuable insight as you move forward.
+
+Step 3: Prototype Your Solution and Test UI/UX
+Record their use of the product to track 
+how intuitive the interface really is,
+and find out if you overlooked any important functionality.
+resonates with users and stakeholders
+
+Step 4: Create a Minimum Viable Product - An MVP
+Resonates with users and stakeholders???
+MVP should inclued a direct feetback of all functions and views.
+
+Step 5: Design a Roadmap
+roadmap as a set of blueprints for constructing a building.
+clear goal.
+
+
+
